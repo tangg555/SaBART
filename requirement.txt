@@ -1,0 +1,11 @@
+rouge_score
+transformers==4.21.3
+sentence_transformers==2.2.2
+pytorch_lightning==1.8.2
+fairseq
+spacy
+scipy
+pandas
+tensorboardX
+torchsummary
+jsonlines

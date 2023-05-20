@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*/.DS_Store
+*.zip
+.DS_Store
+.git
+.idea
+toy.py
+output
+resources
+external-resources
+datasets
+__MACOSX
