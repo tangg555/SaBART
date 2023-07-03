@@ -101,7 +101,12 @@ Currently we only have arxiv citation listed as follows:
 
 This is the arxiv citation:
 ```angular2
-
+@article{tang2023enhancing,
+  title={Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation},
+  author={Tang, Chen and Zhang, Hongbo and Loakman, Tyler and Lin, Chenghua and Guerin, Frank},
+  journal={arXiv preprint arXiv:2306.16195},
+  year={2023}
+}
 ```
 
 
