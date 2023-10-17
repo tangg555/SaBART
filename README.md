@@ -27,7 +27,8 @@ To reproduce our work you need to download following files:
 
 - Processed data (unzip them to be `datasets/cadge` directory): [dropbox](https://www.dropbox.com/s/ydtdqef2344p9m0/cadge.zip?dl=0)
 
-- The raw data come from the paper [CCM](https://github.com/thu-coai/ccm), and you can click this [data link](https://cloud.tsinghua.edu.cn/f/d367736aaec64d399b1b/?dl=1) to directly download it.  (put it to `resources/commonsense_conversation_dataset`)
+- The raw data come from the paper [CCM](https://github.com/thu-coai/ccm), and it needs the authority from the authors of CMM before you can access it. (put it to `resources/commonsense_conversation_dataset`)
+- Our model needs the enhanced bart which obtain the enlarged embeddings during processing. So we also upload the enlarged Bart resources at [here](https://www.dropbox.com/scl/fi/8e3ah36w0ww9d5u8mxs79/bart-base.zip?rlkey=i42x4y67nby1lkj3o5xzxjd76&dl=0).
 
 You need to download the raw data only if you want to reproduce the dataset by yourself.
 
