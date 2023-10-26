@@ -1,5 +1,5 @@
 # Enhancing Dialogue Generation via Dynamic Graph Knowledge
-This repository is the code and resources for the paper [Enhancing Dialogue Generation via Dynamic Graph Knowledge]() 
+This repository is the code and resources for the paper [Enhancing Dialogue Generation via Dynamic Graph Knowledge](https://aclanthology.org/2023.acl-long.253.pdf) 
 
 Here, our approach implements [BART](https://arxiv.org/abs/1910.13461) as our base language model, so for the convenience we call it **SaBART** (Subgraph-Aggregation BART).
 
@@ -97,16 +97,24 @@ version of Pytorch 1. Hope this can be addressed in the future. :-)
 
 
 ## Citation
-If you found this repository or paper is helpful to you, please cite our paper. 
-Currently we only have arxiv citation listed as follows:
-
-This is the arxiv citation:
+If you found this repository or paper is helpful to you, please cite our paper.
+This is the citation in format of ACL:
 ```angular2
-@article{tang2023enhancing,
-  title={Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation},
-  author={Tang, Chen and Zhang, Hongbo and Loakman, Tyler and Lin, Chenghua and Guerin, Frank},
-  journal={arXiv preprint arXiv:2306.16195},
-  year={2023}
+@inproceedings{tang-etal-2023-enhancing,
+    title = "Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation",
+    author = "Tang, Chen  and
+      Zhang, Hongbo  and
+      Loakman, Tyler  and
+      Lin, Chenghua  and
+      Guerin, Frank",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.253",
+    doi = "10.18653/v1/2023.acl-long.253",
+    pages = "4604--4616"
 }
 ```
 
